@@ -42191,6 +42191,36 @@
 			"proj": 3
 		},
 		{
+			"name": "Trossingen Bahnhof",
+			"ril100": "TTR",
+			"group": 2,
+			"x": 278,
+			"y": 598,
+			"platformLength": 110,
+			"platforms": 3,
+			"proj": 3
+		},
+		{
+			"name": "Trossingen Stadt",
+			"ril100": "TTRS",
+			"group": 2,
+			"x": 278,
+			"y": 612,
+			"platformLength": 110,
+			"platforms": 3,
+			"proj": 3
+		},
+		{
+			"name": "Schwenningen (Neckar)",
+			"ril100": "RSCV",
+			"group": 2,
+			"x": 273,
+			"y": 598,
+			"platformLength": 320,
+			"platforms": 5,
+			"proj": 3
+		},
+		{
 			"name": "Spaichingen",
 			"ril100": "TSP",
 			"group": 2,
